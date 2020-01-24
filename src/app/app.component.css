@@ -5,3 +5,15 @@
 .box.column p {
   margin-bottom: 0.5rem;
 }
+
+.pending {
+  color: black;
+}
+
+.incorrect {
+  color: red;
+}
+
+.correct {
+  color: green;
+}
